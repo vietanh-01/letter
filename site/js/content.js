@@ -6,51 +6,52 @@
  * inserted with textContent by main.js; HTML in these strings is not interpreted.
  */
 window.SITE_CONTENT = {
-  pageTitle: "A Birthday Letter for Your Person",
+  pageTitle: "A Letter for My Girl",
   description: "A customizable floral birthday greeting, photo gallery, and heartfelt letter template.",
 
-  occasion: "Happy Birthday",
-  recipientName: "Your Person",
+  occasion: "Happy Women’s Day to My Prettiest Girl 🌷",
+  recipientName: "Đào Giang",
   heroEyebrow: "A little celebration, made with love",
-  heroSubtitle: "Replace this line with a short wish for someone special.",
+  //heroSubtitle: "Yêu em nhiều",
 
   galleryEyebrow: "A few favorite moments",
   galleryHeading: "Our little gallery",
   photos: [
     {
-      src: "assets/placeholders/photo-1.svg",
+      src: "assets/placeholders/anh1.JPG",
       alt: "Floral placeholder labeled Add photo 1",
-      caption: "Add your caption",
-      date: "Add a date or memory"
+      caption: "Bức ảnh đầu tiên 💯",
+      date: "21/3"
     },
     {
-      src: "assets/placeholders/photo-2.svg",
+      src: "assets/placeholders/anh2.JPG",
       alt: "Floral placeholder labeled Add photo 2",
-      caption: "Add your caption",
-      date: "Add a date or memory"
+      caption: "Bức ảnh đầu tiên mà em khen anh chụp đẹp 😆",
+      date: "6/8"
     },
     {
-      src: "assets/placeholders/photo-3.svg",
+      src: "assets/placeholders/anh3.JPG",
       alt: "Floral placeholder labeled Add photo 3",
-      caption: "Add your caption",
+      caption: "Bức ảnh anh thấy em tươi nhất 🌷",
       date: "Add a date or memory"
     },
     {
-      src: "assets/placeholders/photo-4.svg",
+      src: "assets/placeholders/anh4.JPG",
       alt: "Floral placeholder labeled Add photo 4",
-      caption: "Add your caption",
-      date: "Add a date or memory"
+      caption: "Bức ảnh đầu tiên của 2 đứa 💕",
+      date: ""
     }
   ],
 
-  letterDate: "Month Day, Year",
-  salutation: "My dearest [name],",
+  letterDate: "20-10, 2026",
+  salutation: "To: Người Anh Yêu",
   letterParagraphs: [
-    "Write your message here.",
-    "Add another memory, wish, or reason this person matters to you.",
-    "Keep writing until the letter sounds unmistakably like you."
+    "Chữ tay anh khum đẹp nên anh tạo ra bức thư này.",
+    "Anh chỉ muốn nói rằng anh yêu em rất nhiều và bức thư này là cách để anh thể hiện điều đó.",
+    "Trước đây những dịp lễ như ngày này anh thường không quá để tâm nhưng bây giờ anh lại thấy trong anh có 1 chút gì đấy hào hứng. Chắc có lẽ bởi vì anh biết rằng anh lại được trải qua 1 cột mốc nữa với em.",
+    "Anh chúc em bé của anh ngày 20/10 ý nghĩa, chúc em luôn xinh đẹp, giỏi giang và luôn nắm tay cùng anh tiến về phía trước nheee."
   ],
-  signature: "With love, [your name]",
+  signature: "With love, Viet Anhh ♥️",
   footerText: "Made with care — customize every word and memory.",
 
   petals: {
